@@ -9,7 +9,7 @@
 		<version>2.3.2.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>pl.zdalnyserwis</groupId>
+	<groupId>pl.siara</groupId>
 	<artifactId>trees</artifactId>
 	<version>1.0.0</version>
 	<name>trees</name>

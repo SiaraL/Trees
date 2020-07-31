@@ -17,7 +17,7 @@ public class LeafyTree extends Tree{
     @Override
     public void grow() {
         super.grow();
-        System.out.println("Grows only since sprint to autumn.");
+        System.out.println("Grows only since spring to autumn.");
     }
 
 }
